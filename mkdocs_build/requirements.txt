@@ -21,7 +21,7 @@ bleach==5.0.1
 jsmin==3.0.1
 lunr==0.6.2
 nltk==3.7
-tornado==6.2
+tornado==6.4.1
 watchdog==2.1.9
 cairocffi==1.4.0
 cairosvg==2.5.2
